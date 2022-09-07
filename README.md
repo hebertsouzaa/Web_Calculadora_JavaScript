@@ -1,4 +1,4 @@
-# CalculadoraOnline
+# Calculadora Web feita em *JavaScript*, CSS e HTML
 SOMA, SUBTRAÇÃO, MULTIPLICAÇÃO é DIVISÃO!
 # Objetivo
 -Criar contas aritmeticas.
